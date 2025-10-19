@@ -24,7 +24,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/username/transport_catalogue.git
+    git clone https://github.com/Pofxe/transport_catalogue.git
     ```
 2. Соберите проект с помощью CMake:
     ```sh
